@@ -3,15 +3,15 @@ ION Protocol
   Assets                                                               Stables                                                         GAMM
 OSMO / ATOM                                                          UST, eMoney, USDX                                        OSMO/ATOM pairs  
 
-  Higher risk %                                               Lowest risk %                                               Lower risk %       
+  Higher risk %                                                     Lowest risk %                                               Lower risk %       
 
-All options require 150% collateral
-(what creates risk % lower in GAMM?)
+                                                         All options require 150% collateral
+                                                         (what creates risk % lower in GAMM?)
 
-Value of asset will fluctuate                                                                               Superfluid staking options
-with market and be subjected                                                                         create more opportunity for 
+Value of asset will fluctuate                                                                                          Superfluid staking options
+with market and be subjected                                                                                         create more opportunity for 
 to risk value = market volatility                                                                       collateral to gain value and lower risk ratio throughout 
-                                                                                                            the duration of the loan                 
+                                                                                                                       the duration of the loan                 
 
 
 Lets say that OSMO/ATOM pair is submitted for loan of Proton.  100$ value of GAMM = 50$ value of Proton.  That pool is given a 30% risk factor.  You’ve deposited 
